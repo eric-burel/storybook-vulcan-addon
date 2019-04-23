@@ -1,0 +1,19 @@
+{
+  "name": "storybook-vulcan-addon",
+  "version": "0.0.1",
+  "description": "An addon to manage Vulcan in Storybook",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbke/storybook-vulcan-addon.git"
+  },
+  "author": "LBKE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbke/storybook-vulcan-addon/issues"
+  },
+  "homepage": "https://github.com/lbke/storybook-vulcan-addon#readme"
+}
